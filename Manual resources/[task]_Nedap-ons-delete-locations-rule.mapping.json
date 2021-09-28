@@ -1,0 +1,10 @@
+[
+    {
+        "name":  "afasOrgUnits",
+        "value":  "{{form.locationRules.AFASOEid}}"
+    },
+    {
+        "name":  "nedapLocIds",
+        "value":  "{{form.locationRules.NedapLocationIds}}"
+    }
+]

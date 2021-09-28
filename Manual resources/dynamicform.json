@@ -1,0 +1,46 @@
+[
+    {
+        "key":  "locationRules",
+        "templateOptions":  {
+                                "label":  "Location Rules",
+                                "required":  true,
+                                "grid":  {
+                                             "columns":  [
+                                                             {
+                                                                 "headerName":  "AFASO Eid",
+                                                                 "field":  "AFASOEid"
+                                                             },
+                                                             {
+                                                                 "headerName":  "Nedap Location Ids",
+                                                                 "field":  "NedapLocationIds"
+                                                             },
+                                                             {
+                                                                 "headerName":  "AFASOE",
+                                                                 "field":  "AFASOE"
+                                                             },
+                                                             {
+                                                                 "headerName":  "Nedap Locations",
+                                                                 "field":  "NedapLocations"
+                                                             }
+                                                         ],
+                                             "height":  300,
+                                             "rowSelection":  "single"
+                                         },
+                                "dataSourceConfig":  {
+                                                         "dataSourceGuid":  "$dataSourceGuid_0",
+                                                         "input":  {
+                                                                       "propertyInputs":  [
+
+                                                                                          ]
+                                                                   }
+                                                     },
+                                "useFilter":  true,
+                                "useDefault":  false
+                            },
+        "type":  "grid",
+        "summaryVisibility":  "Show",
+        "requiresTemplateOptions":  true,
+        "requiresKey":  true,
+        "requiresDataSource":  true
+    }
+]
