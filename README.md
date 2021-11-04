@@ -8,7 +8,7 @@ With this HelloID Service Automation Delegated Form you can delete mapping rules
 | Version | Description | Date |
 | - | - | - |
 | 1.0.1   | Added version number and updated all-in-one script | 2021/11/04  |
-| 1.0.0   | Initial release | 2020/09/28  |
+| 1.0.0   | Initial release | 2021/09/28  |
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
