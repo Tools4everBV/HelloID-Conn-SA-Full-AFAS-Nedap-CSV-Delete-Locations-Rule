@@ -65,7 +65,7 @@ This Powershell data source retrieves the rules from the configured mapping file
 This delegated form task will delete the selected rule from the configured mapping file.
 
 ## Getting help
-_If you need help, feel free to ask questions_
+If you need help, feel free to ask questions on our [forum](https://forum.helloid.com/forum/helloid-connectors/service-automation/561-helloid-sa-nedap-delete-clientrange-mapping)
 
 ## HelloID Docs
 The official HelloID documentation can be found at: https://docs.helloid.com/
